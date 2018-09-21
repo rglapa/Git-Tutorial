@@ -4,7 +4,7 @@
 
 Open up Terminal
 
-ifdalfajsd
+ifdalfajsdsquares.ores
 
 Type "git" into command prompt
 
