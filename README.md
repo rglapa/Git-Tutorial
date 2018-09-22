@@ -4,8 +4,8 @@
 
 Open up Terminal
 
-ifdalfajsdsquares.ores
-
 Type "git" into command prompt
+
+Press "Install" if git is not installed
 
 ## How to install git on PC
