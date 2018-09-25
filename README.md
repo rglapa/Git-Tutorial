@@ -11,3 +11,9 @@ Press "Install" if git is not installed
 Git is now installed!
 
 ## How to install git on PC
+
+Go to http://git-scm.com/download/win
+
+Download will start
+
+Usual install for Windows
