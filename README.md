@@ -21,3 +21,5 @@ Usual install sequence for Windows
 Then open up a Command Prompt
 
 Type git to see if installed
+
+Git is now installed!
