@@ -16,4 +16,8 @@ Go to http://git-scm.com/download/win
 
 Download will start
 
-Usual install for Windows
+Usual install sequence for Windows
+
+Then open up a Command Prompt
+
+Type git to see if installed
