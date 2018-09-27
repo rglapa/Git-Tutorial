@@ -11,3 +11,5 @@ Press "Install" if git is not installed
 Git is now installed!
 
 ## How to install git on PC
+
+Git test
