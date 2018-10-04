@@ -48,6 +48,6 @@ git commit -m "first commit"
 
 git remote add origin https://github.com/your_username/Name_of_online_repository.git
 
-git push -u origin master
+If in a different repository, use the set-origin command
 
-test text
+git push -u origin master
